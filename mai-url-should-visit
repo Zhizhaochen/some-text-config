@@ -1,0 +1,5 @@
+[体育]
+^http://sports.163.com/\\d*/\\d*/\\d*/\\w*.html$
+
+[财经]
+^http://money.163.com/\\d*/\\d*/\\d*/\\w*.html$
